@@ -1,0 +1,16 @@
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\QcVmtCreator.exe
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\QcVmtCreator.deps.json
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\QcVmtCreator.runtimeconfig.json
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\QcVmtCreator.runtimeconfig.dev.json
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\QcVmtCreator.dll
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\QcVmtCreator.pdb
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\obj\Debug\netcoreapp3.1\QcVmtCreator.csprojAssemblyReference.cache
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\obj\Debug\netcoreapp3.1\QcVmtCreator.AssemblyInfoInputs.cache
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\obj\Debug\netcoreapp3.1\QcVmtCreator.AssemblyInfo.cs
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\obj\Debug\netcoreapp3.1\QcVmtCreator.dll
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\obj\Debug\netcoreapp3.1\QcVmtCreator.pdb
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\qc.qc
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\qc_p.qc
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\mat_base.vmt
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\mat_glow.vmt
+E:\projekty programistyczne\QcVmtCreator\QcVmtCreator\bin\Debug\netcoreapp3.1\mat_gold.vmt

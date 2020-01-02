@@ -1,0 +1,24 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "<name>/<prefix>/<filename>"
+	"$bumpmap" "<name>/<prefix>/<filename>_n"
+
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "30"
+	"$phongfresnelranges" "[2 2 1]"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 0.75 .5]"
+	
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.1 .1 .1]"		
+	
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" "1"	
+}
